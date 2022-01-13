@@ -6,7 +6,7 @@ Twitter Sentiment Analysis is a project that describes an analysis of the public
 
 '*training-Obama-Romney-tweets*' is the dataset based on which the project has been built. The csv file can be found in the 'dataset' directory of this repository.
 
-- **Objective**: The analysis is performed for determining whether data is neutral, positive, or negative. It is used to detect a particular emotion based on a list of words and their corresponding emotions.
+- **Objective**: The analysis is performed for determining whether the test data tweets are positive, negative or neutral. It is used to detect a particular emotion based on a list of words and their corresponding emotions.
 
 The dataset contains the tweets from 2012 presidential election for Barack Obama and Mitt Romney. The training data consists of three sentiments - '*positive*'(+1), '*negative*'(-1), '*neutral*'(0).
 
