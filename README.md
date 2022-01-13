@@ -17,6 +17,8 @@ _Note: This project is run on Anaconda distribution._
 3. Open IPython Notebook: Data_Mining_Project.ipynb with Jupyter Notebook.
 4. Run the Notebook to view the results.
 
+## Result
+
 1. **Data Cleaning and Pre-Processing**: 
 - Data cleaning was an integral part for sentiment analysis to remove unwanted data. This included converting the text to lower case, removing certain stop words which were repeated regularly in many tweets, removing non alpha numeric characters including hashtags.
 - The text after hashtag was retained to capture the emotion in the tweet for determining the sentiment better. Hyperlinks like ‘www. ’, ‘http://’ and ‘https://’ were removed, stemming of the text for instance, words ‘likes’, ‘liked’, ‘likely’ and ‘liking’ were stemmed to like and deleted the single length and double length characters which were not part of the stop word library like a, an, the, in, at, etc.
